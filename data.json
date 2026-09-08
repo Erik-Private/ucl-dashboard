@@ -1,0 +1,218 @@
+{
+ "asof": "2026-09-08T19:25:00Z",
+ "season": "2026",
+ "teams": {
+  "AEK": "AEK Athens",
+  "ARS": "Arsenal",
+  "ASK": "LASK",
+  "ATM": "Atlético Madrid",
+  "AVL": "Aston Villa",
+  "BAR": "Barcelona",
+  "BMU": "Bayern München",
+  "BOG": "Bodø/Glimt",
+  "BRU": "Club Brugge",
+  "BVB": "Borussia Dortmund",
+  "COM": "Como",
+  "FCP": "Porto",
+  "FEN": "Fenerbahçe",
+  "FEY": "Feyenoord",
+  "GAL": "Galatasaray",
+  "INT": "Inter",
+  "LFC": "Liverpool",
+  "LIL": "Lille",
+  "MCI": "Manchester City",
+  "MUN": "Manchester United",
+  "NAP": "Napoli",
+  "PSG": "Paris Saint-Germain",
+  "PSV": "PSV",
+  "RBB": "Real Betis",
+  "RBL": "RB Leipzig",
+  "RCL": "Lens",
+  "RMA": "Real Madrid",
+  "ROM": "Roma",
+  "SBH": "Sabah",
+  "SHA": "Shakhtar Donetsk",
+  "SLA": "Slavia Praha",
+  "SLO": "Slovan Bratislava",
+  "SPO": "Sporting CP",
+  "VFB": "VfB Stuttgart",
+  "VIK": "Viking",
+  "VIL": "Villarreal"
+ },
+ "matches": [
+  {
+   "md": 1,
+   "t": "2026-09-08T16:45:00Z",
+   "h": "AEK",
+   "a": "ASK",
+   "hs": 1,
+   "as": 0,
+   "status": "final"
+  },
+  {
+   "md": 1,
+   "t": "2026-09-08T16:45:00Z",
+   "h": "BRU",
+   "a": "AVL",
+   "hs": 2,
+   "as": 3,
+   "status": "final"
+  },
+  {
+   "md": 1,
+   "t": "2026-09-08T19:00:00Z",
+   "h": "BVB",
+   "a": "VIL",
+   "hs": 0,
+   "as": 0,
+   "status": "live"
+  },
+  {
+   "md": 1,
+   "t": "2026-09-08T19:00:00Z",
+   "h": "FCP",
+   "a": "MCI",
+   "hs": 0,
+   "as": 0,
+   "status": "live"
+  },
+  {
+   "md": 1,
+   "t": "2026-09-08T19:00:00Z",
+   "h": "LIL",
+   "a": "RBB",
+   "hs": 1,
+   "as": 0,
+   "status": "live"
+  },
+  {
+   "md": 1,
+   "t": "2026-09-08T19:00:00Z",
+   "h": "RMA",
+   "a": "INT",
+   "hs": 1,
+   "as": 0,
+   "status": "live"
+  },
+  {
+   "md": 1,
+   "t": "2026-09-09T16:45:00Z",
+   "h": "BAR",
+   "a": "FEY",
+   "status": "scheduled",
+   "p": [
+    89.6,
+    6.8,
+    3.6
+   ]
+  },
+  {
+   "md": 1,
+   "t": "2026-09-09T16:45:00Z",
+   "h": "VFB",
+   "a": "VIK",
+   "status": "scheduled",
+   "p": [
+    78.5,
+    12.6,
+    8.9
+   ]
+  },
+  {
+   "md": 1,
+   "t": "2026-09-09T19:00:00Z",
+   "h": "LFC",
+   "a": "ATM",
+   "status": "scheduled",
+   "p": [
+    56.3,
+    23.5,
+    20.2
+   ]
+  },
+  {
+   "md": 1,
+   "t": "2026-09-09T19:00:00Z",
+   "h": "PSG",
+   "a": "SLO",
+   "status": "scheduled",
+   "p": [
+    93.7,
+    4.6,
+    1.7
+   ]
+  },
+  {
+   "md": 1,
+   "t": "2026-09-09T19:00:00Z",
+   "h": "SPO",
+   "a": "GAL",
+   "status": "scheduled",
+   "p": [
+    51.7,
+    24.8,
+    23.5
+   ]
+  },
+  {
+   "md": 1,
+   "t": "2026-09-09T19:00:00Z",
+   "h": "NAP",
+   "a": "ARS",
+   "status": "scheduled",
+   "p": [
+    18.7,
+    25.2,
+    56.1
+   ]
+  },
+  {
+   "md": 1,
+   "t": "2026-09-10T16:45:00Z",
+   "h": "FEN",
+   "a": "ROM",
+   "status": "scheduled",
+   "p": [
+    29.5,
+    27.6,
+    42.9
+   ]
+  },
+  {
+   "md": 1,
+   "t": "2026-09-10T16:45:00Z",
+   "h": "PSV",
+   "a": "SHA",
+   "status": "scheduled",
+   "p": [
+    67.7,
+    18.0,
+    14.3
+   ]
+  },
+  {
+   "md": 1,
+   "t": "2026-09-10T19:00:00Z",
+   "h": "COM",
+   "a": "RBL",
+   "status": "scheduled",
+   "p": [
+    50.7,
+    24.4,
+    24.9
+   ]
+  },
+  {
+   "md": 1,
+   "t": "2026-09-10T19:00:00Z",
+   "h": "BMU",
+   "a": "BOG",
+   "status": "scheduled",
+   "p": [
+    88.3,
+    7.4,
+    4.3
+   ]
+  }
+ ]
+}
