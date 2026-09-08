@@ -1,5 +1,5 @@
 {
- "asof": "2026-09-08T19:57:17Z",
+ "asof": "2026-09-08T22:19:26Z",
  "season": "2026",
  "teams": {
   "AEK": "PAE AEK",
@@ -62,36 +62,36 @@
    "t": "2026-09-08T19:00:00Z",
    "h": "RMA",
    "a": "INT",
-   "status": "live",
+   "status": "final",
    "hs": 2,
-   "as": 0
+   "as": 1
   },
   {
    "md": 1,
    "t": "2026-09-08T19:00:00Z",
    "h": "FCP",
    "a": "MCI",
-   "status": "live",
+   "status": "final",
    "hs": 0,
-   "as": 0
+   "as": 2
   },
   {
    "md": 1,
    "t": "2026-09-08T19:00:00Z",
    "h": "BVB",
    "a": "VIL",
-   "status": "live",
-   "hs": 0,
-   "as": 0
+   "status": "final",
+   "hs": 3,
+   "as": 2
   },
   {
    "md": 1,
    "t": "2026-09-08T19:00:00Z",
    "h": "LIL",
    "a": "BET",
-   "status": "live",
+   "status": "final",
    "hs": 2,
-   "as": 1
+   "as": 3
   },
   {
    "md": 1,
