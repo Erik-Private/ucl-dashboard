@@ -1,5 +1,5 @@
 {
- "asof": "2026-09-10T20:29:37Z",
+ "asof": "2026-09-10T22:54:45Z",
  "season": "2026",
  "teams": {
   "AEK": "PAE AEK",
@@ -170,8 +170,8 @@
    "t": "2026-09-10T19:00:00Z",
    "h": "FCB",
    "a": "FK",
-   "status": "live",
-   "hs": 2,
+   "status": "final",
+   "hs": 5,
    "as": 0
   },
   {
@@ -179,8 +179,8 @@
    "t": "2026-09-10T19:00:00Z",
    "h": "MUN",
    "a": "SAB",
-   "status": "live",
-   "hs": 3,
+   "status": "final",
+   "hs": 4,
    "as": 0
   },
   {
@@ -188,8 +188,8 @@
    "t": "2026-09-10T19:00:00Z",
    "h": "COM",
    "a": "RBL",
-   "status": "live",
-   "hs": 3,
+   "status": "final",
+   "hs": 4,
    "as": 1
   },
   {
@@ -197,9 +197,9 @@
    "t": "2026-09-10T19:00:00Z",
    "h": "SLP",
    "a": "RCL",
-   "status": "live",
-   "hs": 1,
-   "as": 0
+   "status": "final",
+   "hs": 2,
+   "as": 3
   },
   {
    "md": 2,
