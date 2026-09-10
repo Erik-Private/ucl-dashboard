@@ -1,5 +1,5 @@
 {
- "asof": "2026-09-10T15:56:05Z",
+ "asof": "2026-09-10T20:22:09Z",
  "season": "2026",
  "teams": {
   "AEK": "PAE AEK",
@@ -152,41 +152,179 @@
    "t": "2026-09-10T16:45:00Z",
    "h": "FEN",
    "a": "ROM",
-   "status": "scheduled"
+   "status": "final",
+   "hs": 1,
+   "as": 1
   },
   {
    "md": 1,
    "t": "2026-09-10T16:45:00Z",
    "h": "PSV",
    "a": "SHD",
-   "status": "scheduled"
+   "status": "final",
+   "hs": 1,
+   "as": 1
   },
   {
    "md": 1,
    "t": "2026-09-10T19:00:00Z",
    "h": "FCB",
    "a": "FK",
-   "status": "scheduled"
+   "status": "live",
+   "hs": 1,
+   "as": 0
   },
   {
    "md": 1,
    "t": "2026-09-10T19:00:00Z",
    "h": "MUN",
    "a": "SAB",
-   "status": "scheduled"
+   "status": "live",
+   "hs": 3,
+   "as": 0
   },
   {
    "md": 1,
    "t": "2026-09-10T19:00:00Z",
    "h": "COM",
    "a": "RBL",
-   "status": "scheduled"
+   "status": "live",
+   "hs": 3,
+   "as": 0
   },
   {
    "md": 1,
    "t": "2026-09-10T19:00:00Z",
    "h": "SLP",
    "a": "RCL",
+   "status": "live",
+   "hs": 1,
+   "as": 0
+  },
+  {
+   "md": 2,
+   "t": "2026-10-13T16:45:00Z",
+   "h": "RCL",
+   "a": "SPO",
+   "status": "scheduled"
+  },
+  {
+   "md": 2,
+   "t": "2026-10-13T16:45:00Z",
+   "h": "SAB",
+   "a": "SLP",
+   "status": "scheduled"
+  },
+  {
+   "md": 2,
+   "t": "2026-10-13T19:00:00Z",
+   "h": "INT",
+   "a": "BRU",
+   "status": "scheduled"
+  },
+  {
+   "md": 2,
+   "t": "2026-10-13T19:00:00Z",
+   "h": "GAL",
+   "a": "FCB",
+   "status": "scheduled"
+  },
+  {
+   "md": 2,
+   "t": "2026-10-13T19:00:00Z",
+   "h": "ATL",
+   "a": "MUN",
+   "status": "scheduled"
+  },
+  {
+   "md": 2,
+   "t": "2026-10-13T19:00:00Z",
+   "h": "ARS",
+   "a": "LIL",
+   "status": "scheduled"
+  },
+  {
+   "md": 2,
+   "t": "2026-10-13T19:00:00Z",
+   "h": "VIK",
+   "a": "FCB",
+   "status": "scheduled"
+  },
+  {
+   "md": 2,
+   "t": "2026-10-13T19:00:00Z",
+   "h": "RBL",
+   "a": "PSV",
+   "status": "scheduled"
+  },
+  {
+   "md": 2,
+   "t": "2026-10-13T19:00:00Z",
+   "h": "VIL",
+   "a": "NAP",
+   "status": "scheduled"
+  },
+  {
+   "md": 2,
+   "t": "2026-10-14T16:45:00Z",
+   "h": "LIN",
+   "a": "LIV",
+   "status": "scheduled"
+  },
+  {
+   "md": 2,
+   "t": "2026-10-14T16:45:00Z",
+   "h": "FEY",
+   "a": "COM",
+   "status": "scheduled"
+  },
+  {
+   "md": 2,
+   "t": "2026-10-14T19:00:00Z",
+   "h": "ROM",
+   "a": "RMA",
+   "status": "scheduled"
+  },
+  {
+   "md": 2,
+   "t": "2026-10-14T19:00:00Z",
+   "h": "MCI",
+   "a": "PSG",
+   "status": "scheduled"
+  },
+  {
+   "md": 2,
+   "t": "2026-10-14T19:00:00Z",
+   "h": "FK",
+   "a": "BVB",
+   "status": "scheduled"
+  },
+  {
+   "md": 2,
+   "t": "2026-10-14T19:00:00Z",
+   "h": "AVL",
+   "a": "FEN",
+   "status": "scheduled"
+  },
+  {
+   "md": 2,
+   "t": "2026-10-14T19:00:00Z",
+   "h": "BET",
+   "a": "FCP",
+   "status": "scheduled"
+  },
+  {
+   "md": 2,
+   "t": "2026-10-14T19:00:00Z",
+   "h": "SHD",
+   "a": "AEK",
+   "status": "scheduled"
+  },
+  {
+   "md": 2,
+   "t": "2026-10-14T19:00:00Z",
+   "h": "SBA",
+   "a": "VFB",
    "status": "scheduled"
   }
  ]
