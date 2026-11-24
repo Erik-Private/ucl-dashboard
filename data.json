@@ -1,5 +1,5 @@
 {
- "asof": "2026-11-24T08:43:41Z",
+ "asof": "2026-11-24T21:58:45Z",
  "season": "2026",
  "teams": {
   "AEK": "PAE AEK",
@@ -692,63 +692,81 @@
    "t": "2026-11-24T17:45:00Z",
    "h": "GAL",
    "a": "AVL",
-   "status": "scheduled"
+   "status": "final",
+   "hs": 1,
+   "as": 0
   },
   {
    "md": 5,
    "t": "2026-11-24T17:45:00Z",
    "h": "FK",
    "a": "LIN",
-   "status": "scheduled"
+   "status": "final",
+   "hs": 1,
+   "as": 0
   },
   {
    "md": 5,
    "t": "2026-11-24T20:00:00Z",
    "h": "RMA",
    "a": "PSV",
-   "status": "scheduled"
+   "status": "final",
+   "hs": 5,
+   "as": 1
   },
   {
    "md": 5,
    "t": "2026-11-24T20:00:00Z",
    "h": "MCI",
    "a": "NAP",
-   "status": "scheduled"
+   "status": "final",
+   "hs": 2,
+   "as": 2
   },
   {
    "md": 5,
    "t": "2026-11-24T20:00:00Z",
    "h": "ARS",
    "a": "BVB",
-   "status": "scheduled"
+   "status": "final",
+   "hs": 1,
+   "as": 1
   },
   {
    "md": 5,
    "t": "2026-11-24T20:00:00Z",
    "h": "FEY",
    "a": "FCP",
-   "status": "scheduled"
+   "status": "live",
+   "hs": 1,
+   "as": 1
   },
   {
    "md": 5,
    "t": "2026-11-24T20:00:00Z",
    "h": "SBA",
    "a": "BET",
-   "status": "scheduled"
+   "status": "final",
+   "hs": 0,
+   "as": 2
   },
   {
    "md": 5,
    "t": "2026-11-24T20:00:00Z",
    "h": "RBL",
    "a": "RCL",
-   "status": "scheduled"
+   "status": "final",
+   "hs": 3,
+   "as": 1
   },
   {
    "md": 5,
    "t": "2026-11-24T20:00:00Z",
    "h": "COM",
    "a": "AEK",
-   "status": "scheduled"
+   "status": "live",
+   "hs": 1,
+   "as": 0
   },
   {
    "md": 5,
