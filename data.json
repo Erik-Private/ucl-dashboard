@@ -1,5 +1,5 @@
 {
- "asof": "2026-11-24T21:58:45Z",
+ "asof": "2026-11-25T01:51:56Z",
  "season": "2026",
  "teams": {
   "AEK": "PAE AEK",
@@ -737,8 +737,8 @@
    "t": "2026-11-24T20:00:00Z",
    "h": "FEY",
    "a": "FCP",
-   "status": "live",
-   "hs": 1,
+   "status": "final",
+   "hs": 0,
    "as": 1
   },
   {
@@ -764,7 +764,7 @@
    "t": "2026-11-24T20:00:00Z",
    "h": "COM",
    "a": "AEK",
-   "status": "live",
+   "status": "final",
    "hs": 1,
    "as": 0
   },
