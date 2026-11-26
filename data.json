@@ -1,5 +1,5 @@
 {
- "asof": "2026-11-25T21:10:04Z",
+ "asof": "2026-11-26T01:29:10Z",
  "season": "2026",
  "teams": {
   "AEK": "PAE AEK",
@@ -791,8 +791,8 @@
    "t": "2026-11-25T20:00:00Z",
    "h": "INT",
    "a": "VFB",
-   "status": "live",
-   "hs": 0,
+   "status": "final",
+   "hs": 2,
    "as": 0
   },
   {
@@ -800,7 +800,7 @@
    "t": "2026-11-25T20:00:00Z",
    "h": "ATL",
    "a": "VIK",
-   "status": "live",
+   "status": "final",
    "hs": 2,
    "as": 0
   },
@@ -809,26 +809,26 @@
    "t": "2026-11-25T20:00:00Z",
    "h": "PSG",
    "a": "ROM",
-   "status": "live",
-   "hs": 1,
-   "as": 1
+   "status": "final",
+   "hs": 2,
+   "as": 2
   },
   {
    "md": 5,
    "t": "2026-11-25T20:00:00Z",
    "h": "BRU",
    "a": "LIV",
-   "status": "live",
+   "status": "final",
    "hs": 0,
-   "as": 1
+   "as": 3
   },
   {
    "md": 5,
    "t": "2026-11-25T20:00:00Z",
    "h": "LIL",
    "a": "FCB",
-   "status": "live",
-   "hs": 0,
+   "status": "final",
+   "hs": 2,
    "as": 1
   },
   {
@@ -836,18 +836,18 @@
    "t": "2026-11-25T20:00:00Z",
    "h": "SPO",
    "a": "MUN",
-   "status": "live",
-   "hs": 1,
-   "as": 0
+   "status": "final",
+   "hs": 2,
+   "as": 2
   },
   {
    "md": 5,
    "t": "2026-11-25T20:00:00Z",
    "h": "SHD",
    "a": "FEN",
-   "status": "live",
+   "status": "final",
    "hs": 0,
-   "as": 0
+   "as": 1
   },
   {
    "md": 6,
